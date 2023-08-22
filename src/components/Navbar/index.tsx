@@ -11,18 +11,18 @@ const Navbar = () => {
           <span className="app-title">Text Analyser</span>
           <ul className="social-links">
             <li>
-              <a href="https://codewithbasit.netlify.app/" target="_blank" rel="noreferrer">
+              <a href="#" target="_blank" rel="noreferrer">
                 <Website />
               </a>
             </li>
             <li>
-              <a href="https://twitter.com/Basit_Miyanji" target="_blank" rel="noreferrer">
+              <a href="https://twitter.com/CUthulor" target="_blank" rel="noreferrer">
                 <Twitter />
               </a>
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/in/abdulbasitprofile/"
+                href="https://www.linkedin.com/in/charles-uthulor/"
                 target="_blank"
                 rel="noreferrer"
               >
